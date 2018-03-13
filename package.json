@@ -1,16 +1,16 @@
 {
-  "name": "react-component-hierarchy",
-  "version": "1.0.0",
-  "description": "Display a visual representation of your React component hierarchy in the console.",
-  "homepage": "https://github.com/bpxl-labs/react-component-hierarchy",
-  "author": "Black Pixel",
+  "name": "@verkstedt/react-component-hierarchy",
+  "version": "1.0.1",
+  "description": "Display a visual representation of your React component hierarchy in the console. Fork from: https://github.com/bpxl-labs/react-component-hierarchy",
+  "homepage": "https://github.com/jacksbox/react-component-hierarchy",
+  "author": "Mario Jäckle",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bpxl-labs/react-component-hierarchy.git"
+    "url": "git@github.com:jacksbox/react-component-hierarchy.git"
   },
   "bugs": {
-    "url": "https://github.com/bpxl-labs/react-component-hierarchy/issues"
+    "url": "https://github.com/jacksbox/react-component-hierarchy/issues"
   },
   "main": "bin/rch.js",
   "bin": {
